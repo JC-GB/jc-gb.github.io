@@ -1,2 +1,2 @@
-# jc-gb.github.io
-practise website
+# Cambridge University Cuban Salsa Society
+HI!
